@@ -32,6 +32,9 @@ This only work for linux
   $ ./start.sh
   ```
 
+## How to use?
+If the server has been install, you must ./start.sh to run
+
 
 
 

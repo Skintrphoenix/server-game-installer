@@ -7,3 +7,5 @@ if wget -q https://papermc.io/api/v2/projects/paper/versions/$version/builds/$bu
 then
   echo "Install PaperMC"
 fi
+
+mv paper-$version-$build.jar paper.jar

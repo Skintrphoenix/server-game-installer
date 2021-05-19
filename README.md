@@ -1,4 +1,5 @@
 # Server Game Installer
+This only work for linux
 
 ## Already on Shell
 ### MCPE
@@ -9,5 +10,24 @@
 ### MCJE
 - [PaperMC](https://papermc.io)
 - [Yatopia](https://yatopiamc.org)
+
+## Installation
+
+- ```bash
+  $ apt install openjdk-11-jre openjdk-11-jdk
+  ```
+- ```bash
+  $ apt install unzip zip
+  ```
+- ```bash
+  $ apt install wget
+  ```
+- ```bash
+  $ wget 
+  ```
+- ```bash
+  $ bash start
+
+
 
 

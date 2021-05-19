@@ -23,10 +23,14 @@ This only work for linux
   $ apt install wget
   ```
 - ```bash
-  $ wget 
+  $ wget https://raw.githubusercontent.com/Skintrphoenix/server-game-installer/main/start.sh
   ```
 - ```bash
-  $ bash start
+  $ chmod +x ./start.sh
+  ```
+- ```bash
+  $ ./start.sh
+  ```
 
 
 

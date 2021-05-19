@@ -14,22 +14,22 @@ This only work for linux
 ## Installation
 
 - ```bash
-  $ apt install openjdk-11-jre openjdk-11-jdk
+  apt install openjdk-11-jre openjdk-11-jdk
   ```
 - ```bash
-  $ apt install unzip zip
+  apt install unzip zip
   ```
 - ```bash
-  $ apt install wget
+  apt install wget
   ```
 - ```bash
-  $ wget https://raw.githubusercontent.com/Skintrphoenix/server-game-installer/main/start.sh
+  wget https://raw.githubusercontent.com/Skintrphoenix/server-game-installer/main/start.sh
   ```
 - ```bash
-  $ chmod +x ./start.sh
+  chmod +x ./start.sh
   ```
 - ```bash
-  $ ./start.sh
+  ./start.sh
   ```
 
 ## How to use?

@@ -9,4 +9,6 @@ fi
 
 unzip -q bedrock-server-$version.zip
 
+rm -rf bedrock-server-$version.zip
+
 chmod +x bedrock_server
